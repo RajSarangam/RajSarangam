@@ -32,17 +32,17 @@ Passionate about transforming businesses with technology and innovation.
 ## 📬 Let's Connect & Collaborate!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/Raj-Sarangam" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:raj_sarangam@yahoo.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-  <a href="https://github.com/YourUsername" target="_blank">
+  <a href="https://github.com/RajSarangam" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-View-orange?style=for-the-badge&logo=firefox" alt="Portfolio" />
+  <a href="https://RajSarangam.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View-orange?style=for-the-badge&logo=firefox" alt="Website" />
   </a>
 </p>
 

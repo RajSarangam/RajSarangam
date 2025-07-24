@@ -41,9 +41,6 @@ Passionate about transforming businesses with technology and innovation.
   <a href="https://github.com/RajSarangam" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://RajSarangam.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website?style=for-the-badge&logo=firefox" alt="Website" />
-  </a>
 </p>
 
 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟  

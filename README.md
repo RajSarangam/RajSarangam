@@ -16,8 +16,8 @@ Passionate about transforming businesses with technology and innovation.
 🎯 **AI Specialist** with deep expertise in **Computer Vision, Machine Learning, and Deep Learning**. I have completed **Master of OpenCV University**.
 
 💼 **Current Focus**  
-- Building AI/ML capabilities in ERP systems  
-- Expanding staffing operations in US & India  
+- Building AI/ML capabilities **Deep Learning with Pytorch 2.x or Deep Learning with Tensorflow and Keras.**  
+- Building real world applications in Computer Vision and Image Processing.  
 - Hosting Raj’s Tech Talks – a podcast with IT leaders and life coaches
 
 📫 **Reach Me At**  

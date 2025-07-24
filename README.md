@@ -26,3 +26,37 @@ Passionate about transforming businesses with technology and innovation.
 
 🌐 **Website**  
 
+
+
+
+## 📬 Let's Connect & Collaborate!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://github.com/YourUsername" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View-orange?style=for-the-badge&logo=firefox" alt="Portfolio" />
+  </a>
+</p>
+
+🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟  
+**⬇️ Scroll down for Collaboration ⬇️**  
+🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
+
+
+>
+> - 🧠 Computer Vision & Video Analytics projects  
+> - 🤖 AI/ML research and development  
+> - 🧑‍🏫 Technical mentorship and knowledge sharing  
+> - 🌍 Innovation in AI for social impact
+
+---
+
+🚀 **Let's engineer impactful AI solutions that shape our future together!**

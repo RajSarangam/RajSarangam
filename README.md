@@ -20,8 +20,7 @@
 - I have completed **Master Program in Computer Vision & Deep Learning from OpenCV University**.<BR>
 - Passionate about transforming businesses with technology and innovation.
 
-AI enthusiast and IT solutions leader with a strong background in application delivery, machine learning, and data-driven problem solving.  
-I enjoy working on complex problems and building scalable, practical AI solutions that deliver real business value.<BR><BR>
+AI enthusiast and IT solutions leader with a strong background in application delivery, machine learning, and data-driven problem solving. I enjoy working on complex problems and building scalable, practical AI solutions that deliver real business value.<BR><BR>
 
 
 💼 **Current Focus**  

@@ -38,7 +38,15 @@ I enjoy working on complex problems and building scalable, practical AI solution
 🌐 **Website**  
 - Website: https://RajSarangam.com<BR><BR>
 
+## Awards & Recognitions
 
+- **Regional Delivery Excellence Award (2020)**  
+  Prestigious award given to only **one person per region (4 globally)** for outstanding delivery performance.  
+  Recognized as the top **Service Delivery Manager for Tyson Foods** out of 240,000+ Infosys employees.
+
+- **Forbes Business Council**  
+  Selected member contributing insights and thought leadership on technology, innovation, and business strategy.
+<BR><BR>
 
 <h3 align="left">## 📬 Let's Connect & Collaborate!</h3>
 <p align="left">

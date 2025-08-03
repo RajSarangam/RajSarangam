@@ -29,14 +29,6 @@ I enjoy working on complex problems and building scalable, practical AI solution
 - Building real world applications in Computer Vision and Image Processing.  
 - Hosting Raj’s Tech Talks – a podcast with IT leaders and life coaches<BR><BR>
 
-📫 **Reach Me At**  
-- Email: [Raj_Sarangam@yahoo.com](mailto:Raj_Sarangam@yahoo.com)  
-- LinkedIn: [LinkedIn.com/in/Raj-Sarangam](https://linkedin.com/in/Raj-Sarangam)
-- Book Appointment: [Calendly.com/raj_sarangam/raj_sarangam_intro_call](https://calendly.com/raj_sarangam/raj_sarangam_intro_call)<BR><BR>
-
-🌐 **Website**  
-- Website: https://RajSarangam.com<BR><BR>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
@@ -53,6 +45,15 @@ I enjoy working on complex problems and building scalable, practical AI solution
 - **Forbes Business Council**  
   Selected member contributing insights and thought leadership on technology, innovation, and business strategy.
 <BR><BR>
+
+📫 **Reach Me At**  
+- Email: [Raj_Sarangam@yahoo.com](mailto:Raj_Sarangam@yahoo.com)  
+- LinkedIn: [LinkedIn.com/in/Raj-Sarangam](https://linkedin.com/in/Raj-Sarangam)
+- Book Appointment: [Calendly.com/raj_sarangam/raj_sarangam_intro_call](https://calendly.com/raj_sarangam/raj_sarangam_intro_call)<BR><BR>
+
+🌐 **Website**  
+- Website: https://RajSarangam.com<BR><BR>
+
 
 <h3 align="left">## 📬 Let's Connect & Collaborate!</h3>
 <p align="left">

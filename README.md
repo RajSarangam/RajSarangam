@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Raj Sarangam</h1>
 
 <p align="center">
-  <a href="https://RajSarangam.com">Website</a> • 
   <a href="mailto:raj_sarangam@yahoo.com">Email</a> • 
   <a href="https://www.linkedin.com/in/Raj-Sarangam/">LinkedIn</a> • 
-  <a href="https://www.YouTube.com/@RajSarangam/">YouTube</a>
+  <a href="https://www.YouTube.com/@RajSarangam/">YouTube</a> • 
+  <a href="https://RajSarangam.com">Website</a> • 
+  <a href="https://calendly.com/raj_sarangam/raj_sarangam_intro_call">Book Appointment</a>
 </p>
 
 ---
@@ -18,7 +19,11 @@
 
 - **AI Specialist** with deep expertise in **Computer Vision, Machine Learning, and Deep Learning**.<BR>
 - I have completed **Master Program in Computer Vision & Deep Learning from OpenCV University**.<BR>
-- Passionate about transforming businesses with technology and innovation.<BR><BR>
+- Passionate about transforming businesses with technology and innovation.
+
+AI enthusiast and IT solutions leader with a strong background in application delivery, machine learning, and data-driven problem solving.  
+I enjoy working on complex problems and building scalable, practical AI solutions that deliver real business value.<BR><BR>
+
 
 💼 **Current Focus**  
 - Building AI/ML capabilities **Deep Learning with Pytorch 2.x or Deep Learning with Tensorflow and Keras.**  
@@ -27,10 +32,10 @@
 
 📫 **Reach Me At**  
 - Email: [Raj_Sarangam@yahoo.com](mailto:Raj_Sarangam@yahoo.com)  
-- LinkedIn: [linkedin.com/in/Raj-Sarangam](https://linkedin.com/in/Raj-Sarangam)<BR><BR>
+- LinkedIn: [LinkedIn.com/in/Raj-Sarangam](https://linkedin.com/in/Raj-Sarangam)
+- Book Appointment: [Calendly.com/raj_sarangam/raj_sarangam_intro_call](https://calendly.com/raj_sarangam/raj_sarangam_intro_call)<BR><BR>
 
 🌐 **Website**  
-
 - Website: https://RajSarangam.com<BR><BR>
 
 

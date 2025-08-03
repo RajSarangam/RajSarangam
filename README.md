@@ -12,8 +12,7 @@
 
 <img align="right" alt="coding" width="200" src="https://github.com/RajSarangam/RajSarangam/blob/main/profession.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajsarangam&label=Profile%20views&color=0e75b6&style=flat" alt="rajsarangam" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajsarangam&label=Profile%20views&color=0e75b6&style=flat" alt="rajsarangam"/> </p>
 
 🎯 **About Me** - AI Specialist | Entrepreneur | SAP Consultant | Podcast Host   
 
